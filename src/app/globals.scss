@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Tint&family=New+Amsterdam&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Oswald", sans-serif;
+}
+
+.container {
+    padding: 0 40px;
+}
+
+html {
+    color-scheme: dark;
+}
+
+.conatainer {
+    width: 100%;
+    max-width: 1240px;
+    margin-inline: auto;
+    padding-inline: 20px;
+}

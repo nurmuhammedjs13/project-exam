@@ -1,0 +1,46 @@
+.input {
+    background: rgb(55, 55, 55);
+    border-radius: 5px;
+    padding: 3px 20px;
+    border: none;
+    font-size: 25px;
+    width: 370px;
+}
+
+.title {
+    padding: 10px 0;
+}
+
+.button {
+    border-radius: 10px;
+    border: none;
+    padding: 5px 20px;
+    width: 170px;
+    transition: 0.3s;
+    font-size: 20px;
+}
+.button:hover {
+    background: rgb(0, 122, 8);
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.TodoAdd {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
